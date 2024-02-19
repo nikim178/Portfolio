@@ -12,7 +12,7 @@ module.exports = {
       },
       fontFamily: {
         'sans': ['Inter', 'sans-serif'],
-        'display':['Satisfy', 'cursive'],
+        'display':['Fondamento', 'cursive'],
       },
       fontWeight: {
         'thin': '100',
